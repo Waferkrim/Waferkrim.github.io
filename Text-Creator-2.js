@@ -1,0 +1,1 @@
+function popupku() { var body = document.querySelector("body"); var pWm = document.createElement("a"); pWm.setAttribute("href", "Codename : Crush"); pWm.setAttribute("style", "text-decoration: none; color: white; opacity: .5; position: fixed; bottom : 10px; left: 10px"); pWm.innerHTML = "By : Irfan Febriansyah"; body.appendChild(pWm); }
